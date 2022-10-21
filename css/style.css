@@ -5,6 +5,9 @@
 body{
     background: #f0f2f5;
 }
+.bg-footer{
+    background: #445268;
+}
 .col-4{
     padding: 0;
 }
@@ -102,6 +105,9 @@ nav ul a{
     position: absolute;
     top: 0;
 }
+.w-95{
+    width: 95%;
+}
 .form-row{
     position: relative;
     z-index: 100;
@@ -128,3 +134,6 @@ nav ul a{
   .idd-zoom img {
     width:100%;
   }
+.footer ul li a{
+    font-size: 13px;
+}
